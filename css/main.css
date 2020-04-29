@@ -68,7 +68,7 @@ h5 {
 	Global Styles
 -------------------------------------------------------------------------------*/
 a {
-	color: #e84545;
+	/* color: #e84545; */
 }
 a:hover, a:focus {
 	text-decoration: none;
