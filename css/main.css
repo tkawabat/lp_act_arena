@@ -345,6 +345,9 @@ ul li {
 	bottom: -186px;
 	position: relative;
 }
+.banner-btn {
+	margin-top: 20px;
+}
 .banner-btn a {
 	margin-right: 15px;
 	display:inline-block
@@ -411,6 +414,9 @@ ul li {
 .features2 {
 	padding-bottom:0;
 }
+.features2-explain {
+	float:right;
+}
 .features2-content {
 	margin-top:15%;
 }
@@ -425,8 +431,11 @@ ul li {
 	letter-spacing:1px;
 	margin-top:7%;
 }
-.features2-content ul {
+.features2-content h4 {
 	margin-top:7%;
+}
+.features2-content ul {
+	text-align: left;
 	line-height:36px;
 	font-weight: 300;
 }

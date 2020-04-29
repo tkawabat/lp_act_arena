@@ -86,8 +86,18 @@ text-align:center;
  margin-top:5%;
  margin-bottom:5%;
 }
+.features2-explain {
+	float:none;
+}
 .features2-content {
- margin-top:0px;
+    margin-top:0px;
+    margin-bottom: 40px;
+}
+.features2-content h4 {
+	margin-top:40px;
+}
+.features2-content ul {
+    margin-left: 20px;
 }
 .features3 img {
  padding-left:0px;
@@ -104,6 +114,9 @@ text-align:center;
  margin-top:70px;
  font-size: 33px;
  line-height:36px;
+}
+div.banner-btn {
+    margin-top: 40px;
 }
  .banner-btn a {
  margin-bottom: 70px;
