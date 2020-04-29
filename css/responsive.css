@@ -75,13 +75,13 @@ padding-right:0px;
 text-align:center;
 }
 .features1-content {
- margin-top: 5%;
+ margin-top: 10%;
 }
 .left {
  text-align:center;
 }
 .middle {
- padding-left:0px;
+ /* padding-left:0px; */
  margin:auto;
  margin-top:5%;
  margin-bottom:5%;
