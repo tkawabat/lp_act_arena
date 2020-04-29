@@ -24,7 +24,9 @@ $(document).ready(function() {
 
 	// Page Scroll
 	var sections = $('section')
-		nav = $('nav[role="navigation"]');
+		nav = $('nav[role="navigation"]')
+		header = $('#header')
+		;
 
 	$(window).on('scroll', function () {
 	  	var cur_pos = $(this).scrollTop();
@@ -37,7 +39,7 @@ $(document).ready(function() {
 	    	}
 	  	});
 	});
-	nav.find('a').on('click', function () {
+	header.find('a').on('click', function () {
 	  	var $el = $(this)
 	    	id = $el.attr('href');
 		$('html, body').animate({
