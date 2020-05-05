@@ -41,7 +41,8 @@ $(document).ready(function() {
 	});
 	header.find('a').on('click', function () {
 	  	var $el = $(this)
-	    	id = $el.attr('href');
+			id = $el.attr('href');
+		if (id === '#') return;
 		$('html, body').animate({
 			scrollTop: $(id).offset().top - 75
 		}, 500);
