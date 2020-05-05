@@ -110,13 +110,14 @@ text-align:center;
  #banner {
  text-align:center;
 }
- .banner-text h1 {
- margin-top:70px;
+ .banner-text h2 {
+ margin-top:100px;
  font-size: 33px;
  line-height:36px;
 }
 div.banner-btn {
     margin-top: 40px;
+    margin-bottom: 40px;
 }
  .banner-btn a {
  margin-bottom: 70px;

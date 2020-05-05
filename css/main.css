@@ -324,7 +324,7 @@ ul li {
 .banner-text {
 	padding-top: 35%;
 }
-.banner-text h1 {
+.banner-text h2 {
 	color: #fff;
 	font-family: "Roboto", sans-serif;
 	font-weight: 100;
@@ -346,7 +346,7 @@ ul li {
 	position: relative;
 }
 .banner-btn {
-	margin-top: 20px;
+	margin-top: 60px;
 }
 .banner-btn a {
 	margin-right: 15px;
