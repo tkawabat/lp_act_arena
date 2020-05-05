@@ -1,7 +1,4 @@
 @media screen and (max-width: 1024px) {
-#header .logo {
-    display: none;
-}
  #header .header-content {
  width: 90%;
 }
